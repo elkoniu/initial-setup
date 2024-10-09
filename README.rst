@@ -1,3 +1,6 @@
+### Warning: Deprecation notice
+*This project will be deprecated in the near future and its functionality merged into rhinstaller/anaconda*
+
 Initial Setup
 =============
 
